@@ -31,9 +31,9 @@ Access the software via: [FloatFry MRP System](http://54.234.24.2:5000)
 
 ## Acknowledgments
 
-Acknowledgment to the individuals for their support:
+Acknowledgement to the individuals for their support:
 
-- Vinay Rathod
+- Muhammed Usman Mateen
 - Samuel Odunayo Ayowalehinmi
 - Christian Osaruese Osemwengie
 - Tiven Bowesman-Quaye
